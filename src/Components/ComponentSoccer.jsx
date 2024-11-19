@@ -1,4 +1,4 @@
-import soccer from "./assets/soccer.jpg"
+import soccer from "../assets/soccer.jpg"
 export const ComponentSoccer = () => {
 
     return (

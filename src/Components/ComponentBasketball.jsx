@@ -1,4 +1,4 @@
-import basketball from "./assets/basketball.jpg"
+import basketball from "../assets/basketball.jpg"
 export const Componentasketball= () =>{
 
     return (

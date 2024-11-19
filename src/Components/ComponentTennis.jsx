@@ -1,4 +1,4 @@
-import tennis from "./assets/tennis.jpg"
+import tennis from "../assets/tennis.jpg"
 export const ComponentTennis = () => {
 
     return (
